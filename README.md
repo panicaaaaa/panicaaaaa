@@ -1,15 +1,14 @@
-<!-- PROFILE: panicaaaaa | Kuzyrnyachi Premium Dark -->
-
 <div align="center">
 
 # 🖤 **panicaaaaa**
-### Minecraft Java Plugin Dev • NightWay vibe • делаю как надо
+### java development
 
 <br/>
 
 <!-- Badges -->
 <a href="https://t.me/pncatk">
   <img src="https://img.shields.io/badge/Telegram-@pncatk-2AABEE?logo=telegram&logoColor=white" />
+  
 </a>
 <img src="https://komarev.com/ghpvc/?username=panicaaaaa&style=flat&color=lightgrey" alt="views"/>
 
@@ -19,7 +18,7 @@
 
 ## ⚡ Who am I
 - 🔥 **Minecraft Java coder** — Paper/Purpur 1.16.5+    
-- 🛠️ Делаю плагины под тегом **pnc**
+- 🛠️ Making plugins with tag **pnc**
 
 ---
 
@@ -58,12 +57,11 @@
 
 ## 🗺️ Контакты
 - Telegram: **[@pncatk](https://t.me/pncatk)**
-- GitHub Issues — по проектам с префиксом **pnc**
 
 ---
 
 <div align="center">
 
-### “Работает быстро — значит сделано правильно.”  
+ > “I trying write nice code, but it doesn't always work out”  
 
 </div>
