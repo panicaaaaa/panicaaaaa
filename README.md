@@ -56,10 +56,13 @@
 ## 🧪 Frameworks / Libs
 ![HikariCP](https://img.shields.io/badge/HikariCP-Connections-00BFFF?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate)
+![OrmLite](https://img.shields.io/badge/OrmLite-ORM-795548?style=for-the-badge)
 ![LiteCommands](https://img.shields.io/badge/LiteCommands-Framework-4CAF50?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-Async-009688?style=for-the-badge)
+![MCCoroutines](https://img.shields.io/badge/MCCoroutines-Async-009688?style=for-the-badge)
 ![Guice](https://img.shields.io/badge/Guice-DI-FF6F00?style=for-the-badge)
 ![InvUI](https://img.shields.io/badge/InvUI-GUI-8A2BE2?style=for-the-badge)
+![KAML](https://img.shields.io/badge/KAML-Config-7B68EE?style=for-the-badge)
+![Apache Commons](https://img.shields.io/badge/Apache%20Commons-Utils-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
