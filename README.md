@@ -16,12 +16,6 @@
 
 ---
 
-## ⚡ Who am I
-- 🔥 **Minecraft Kotlin Coder**
-- 🎇 **LuvCraft Coder**
-
----
-
 # 🧠 Tech Stack
 
 ---
@@ -66,18 +60,8 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=panicaaaaa&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-
-</div>
-
----
-
-## 🗺️ Контакты
-- Telegram: **[@pncatk](https://t.me/pncatk)**
+## 🗺️ contacts
+- Telegram: **[Andrew Panica](https://t.me/@otlinVoid)**
 
 ---
 
