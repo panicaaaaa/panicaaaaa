@@ -61,7 +61,7 @@
 ---
 
 ## 🗺️ contacts
-- Telegram: **[Andrew Panica](https://t.me/@otlinVoid)**
+- Telegram: **[Andrew Panica](https://t.me/KotlinVoid)**
 
 ---
 
