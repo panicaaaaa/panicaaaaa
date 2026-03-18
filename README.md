@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤 **panicaaaaa**
+# **Andrew Panica**
 ### KOTLIN DEVELOPER
 
 <br/>
