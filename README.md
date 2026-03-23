@@ -16,20 +16,11 @@
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 ---
 
-## 🎮 Minecraft
-![Paper](https://img.shields.io/badge/Paper%20API-Plugin-2C2D72?style=for-the-badge)
-![Purpur](https://img.shields.io/badge/Purpur-Server-5E3B8C?style=for-the-badge)
-![Brigadier](https://img.shields.io/badge/Brigadier-Commands-3C8527?style=for-the-badge)
-![Adventure](https://img.shields.io/badge/Kyori%20Adventure-Text-FF69B4?style=for-the-badge)
-![MiniMessage](https://img.shields.io/badge/MiniMessage-Formatting-FFA500?style=for-the-badge)
-
----
-
-## 🗄️ Data
+##  Data
 ![HikariCP](https://img.shields.io/badge/HikariCP-DB%20Pool-00BFFF?style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,7 +29,7 @@
 
 ---
 
-## 🛠️ Build / Tools
+##  Build / Tools
 ![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=for-the-badge&logo=intellijidea)
@@ -47,7 +38,7 @@
 
 ---
 
-## 🧪 Frameworks / Libs
+##  Frameworks / Libs
 ![HikariCP](https://img.shields.io/badge/HikariCP-Connections-00BFFF?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate)
 ![OrmLite](https://img.shields.io/badge/OrmLite-ORM-795548?style=for-the-badge)
