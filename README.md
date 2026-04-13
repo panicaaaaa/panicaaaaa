@@ -5,20 +5,15 @@
 
 <br/>
 
-<!-- Badges -->
 <a href="https://t.me/pncatk">
   <img src="https://img.shields.io/badge/Telegram-@pncatk-2AABEE?logo=telegram&logoColor=white" />
   
-<!-- </a>
-<img src="https://komarev.com/ghpvc/?username=panicaaaaa&style=flat&color=lightgrey" alt="views"/> -->
 
 </div>
 
----
 
 # Tech Stack
 
----
 
 ##  Data
 ![HikariCP](https://img.shields.io/badge/HikariCP-DB%20Pool-00BFFF?style=for-the-badge)
@@ -27,7 +22,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-API-6DB33F?style=for-the-badge)
 
----
 
 ##  Build / Tools
 ![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -36,7 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
 
 ##  Frameworks / Libs
 ![HikariCP](https://img.shields.io/badge/HikariCP-Connections-00BFFF?style=for-the-badge)
@@ -49,15 +42,7 @@
 ![KAML](https://img.shields.io/badge/KAML-Config-7B68EE?style=for-the-badge)
 ![Apache Commons](https://img.shields.io/badge/Apache%20Commons-Utils-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
----
 
 ## 🗺️ contacts
 - Telegram: **[Andrew Panica](https://t.me/KotlinVoid)**
 
----
-
-<div align="center">
-
- > “I trying write nice code, but it doesn't always work out”  
-
-</div>
