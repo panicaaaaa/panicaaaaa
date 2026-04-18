@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Andrew Panica**
+# **Jace Panica**
 ### KOTLIN DEVELOPER
 
 <br/>
