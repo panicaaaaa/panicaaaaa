@@ -5,7 +5,7 @@
 ### Java / Kotlin Full-Stack Developer
 
 <a href="https://t.me/ThredOverflow">
-  <img src="https://img.shields.io/badge/Telegram-@pncatk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Andrey-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
