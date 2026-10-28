@@ -2,12 +2,6 @@
 
 # Andrey Panica
 
-### jvmdev
-
-<a href="https://t.me/ThreadOverflow">
-  <img src="https://img.shields.io/badge/Telegram-Andrey-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
 </div>
 
 ## Tech Stack
